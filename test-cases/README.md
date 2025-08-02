@@ -1,5 +1,3 @@
----
-
 ### 📁 Manual-Testing-Project
 
 #### 🧾 Overview
@@ -10,7 +8,7 @@ This project showcases my skills in **manual testing** by creating detailed test
 
 **✔️ Manual Test Cases for Sauce Demo:**
 
-* 45 test cases covering essential workflows like login, cart, checkout, etc.
+* 49 test cases covering essential workflows like login, cart, checkout, etc.
 * Includes both **positive** and **negative** scenarios.
 * Test cases are written in a structured format, making them easy to read, understand, and execute.
 
