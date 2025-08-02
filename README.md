@@ -66,7 +66,7 @@ Currently, only the `standard_user` profile is covered. Future plans include tes
 
 ---
 
-## 🧑‍💻 Author
+## 💻 Author
 
 Marina Jakovljevic  
 *Manual QA Tester in training, passionate about UI/UX and quality assurance*
