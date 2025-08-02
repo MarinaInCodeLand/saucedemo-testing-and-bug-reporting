@@ -30,5 +30,3 @@ By combining real-world testing examples with clear documentation, I aim to show
 
 ---
 
-Ako želiš, mogu ti pomoći da napišemo README i za svaki folder posebno ili da napravimo strukturu celog GitHub repozitorijuma. Želiš li?
-
